@@ -1,0 +1,7 @@
+Fingerprint Match Report
+------------------------
+Unknown File: data/sample1.bmp
+Best Match: finger2.BMP
+Similarity: 100.00%
+Decision: MATCH
+Date: 2026-04-25 11:21:07.200535
