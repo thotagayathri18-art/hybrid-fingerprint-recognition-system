@@ -17,3 +17,10 @@ fingerprint_report.pdf
 
 .DS_Store
 Thumbs.db
+ml_dataset/
+database/
+
+fingerprint_cnn.pth
+
+criminals.csv
+*.pdf
